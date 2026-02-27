@@ -1,0 +1,2 @@
+[openai_endpoints]
+"nvidia" = {api_key="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", api_base="https://integrate.api.nvidia.com/v1", default_model="nvdev/deepseek-ai/deepseek-v3-0324"}
